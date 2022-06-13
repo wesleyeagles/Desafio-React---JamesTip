@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "productid": 1,
+      "code": "0001",
+      "category": "Bebida",
+      "productName": "Coca Cola",
+      "provider": "Ambev",
+      "value": "8.50"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName" : "Bebida"
+    }
+  ]
+}
